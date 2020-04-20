@@ -1,0 +1,15 @@
+$color: red;
+$pad: 25px;
+h1 {
+    color: $color;
+}
+
+div{ 
+    p {
+    font-family: 'Courier New', Courier, monospace;
+    }
+}
+
+img {
+    padding: $pad;
+}

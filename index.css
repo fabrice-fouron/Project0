@@ -1,10 +1,12 @@
 h1 {
-    color: rgb(4, 0, 255);
+  color: red;
 }
 
-p {
-    background-color: rgb(152, 218, 152);
-    color: black;
-    font-style: italic;
-    font-size: large;
+div p {
+  font-family: 'Courier New', Courier, monospace;
 }
+
+img {
+  padding: 25px;
+}
+/*# sourceMappingURL=index.css.map */
