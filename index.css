@@ -1,6 +1,5 @@
 h1 {
-  color: red;
-  
+  color: red; 
 }
 
 div p {
@@ -23,6 +22,12 @@ html {
   position: left;
   width: 50%;
   height: 100%;
-  background-color: black;
+
+}
+.right {
+  position: right;
+  width: 50%;
+  height: 100%;
+  
 }
 /*# sourceMappingURL=index.css.map */
