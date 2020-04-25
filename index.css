@@ -1,5 +1,6 @@
 h1 {
   color: red;
+  
 }
 
 div p {
@@ -8,5 +9,20 @@ div p {
 
 img {
   padding: 25px;
+}
+
+html {
+  background: url("images/Virus-img.png");
+  background-size: 700px 700px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.left {
+  position: left;
+  width: 50%;
+  height: 100%;
+  background-color: black;
 }
 /*# sourceMappingURL=index.css.map */

@@ -13,3 +13,12 @@ div{
 img {
     padding: $pad;
 }
+
+html {
+    background: url('images/Virus-img.png');
+    background-size: 700px 700px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    
+}
