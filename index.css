@@ -16,7 +16,9 @@ html {
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
+
 }
+
 
 .left {
   position: left;
@@ -25,9 +27,9 @@ html {
 
 }
 .right {
-  position: right;
-  width: 50%;
-  height: 100%;
-  
+  position: absolute;
+  top: 80%;
+  left: 80%;
+  transform: translate(-50%, -50%);
 }
 /*# sourceMappingURL=index.css.map */
